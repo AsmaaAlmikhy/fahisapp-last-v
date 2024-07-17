@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">260835968163-gkr9m3epcnk2s1gvr370mnnllv7rk3td.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">260835968163</string>
+    <string name="google_api_key" translatable="false">AIzaSyATRlG0XkOX1fBNPtZ0HUqIDkiH4s1Cjm0</string>
+    <string name="google_app_id" translatable="false">1:260835968163:android:106f3ebaf2596c36312b16</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyATRlG0XkOX1fBNPtZ0HUqIDkiH4s1Cjm0</string>
+    <string name="google_storage_bucket" translatable="false">fahisapp-55cb0.appspot.com</string>
+    <string name="project_id" translatable="false">fahisapp-55cb0</string>
+</resources>
